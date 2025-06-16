@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "The Shadow War",
+    "author": "John Smith",
+    "category": "Action",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 2,
+    "name": "Fantasy Realms",
+    "author": "Alice Walker",
+    "category": "Fantasy",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 3,
+    "name": "Love in Times",
+    "author": "Priya Sharma",
+    "category": "Romance",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 4,
+    "name": "Dragon's Fire",
+    "author": "Rick Hunter",
+    "category": "Fantasy",
+    "image": "https://via.placeholder.com/100"
+  }
+]
