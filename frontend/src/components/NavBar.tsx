@@ -1,6 +1,6 @@
 
-import "../styles/Navbar.css";
 
+import "../styles/NavBar.css";
 import UserProfile from '../components/UserProfile';
 
 interface Props {
