@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../components/NavBar";
-import UserProfile from "../components/UserProfile";
+
 import CategoryMenu from "../components/CategoryMenu";
 import BookList from "../components/BookList";
 import GenreScroller from "../components/GenreScroller";

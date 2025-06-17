@@ -1,5 +1,6 @@
-import React from "react";
+
 import "../styles/Navbar.css";
+
 import UserProfile from '../components/UserProfile';
 
 interface Props {
